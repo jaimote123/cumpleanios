@@ -12,6 +12,7 @@ body{
     justify-content: center;
     background-color: black;
     min-height: 100vh;
+    overflow: auto;
     /* padding-top: -30; */
 }
 
